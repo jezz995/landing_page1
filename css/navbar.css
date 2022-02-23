@@ -1,0 +1,8 @@
+.bg-biru {
+  background-color: #7611f7 !important ;
+  transition: 0.3s;
+}
+
+.bg-biru:hover {
+  background-color: #a06be4 !important ;
+}
